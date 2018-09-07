@@ -1,7 +1,8 @@
 # GitHub-Repository
 this app is created to get all repos belongs to team square through is app you can goto a specific repo or the owner of it
-Steps
 -----
+Steps:
+
 1. Initiate a new Android app.
 
 2. Request the GitHub API to show Square's public repositories[1] and parse the JSON
